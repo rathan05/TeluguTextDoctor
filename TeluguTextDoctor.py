@@ -89,7 +89,7 @@ def checkSpelling(word,ary):
 
 # checkSpelling(word,arr)
 
-"""#**generating suggested posting list from the bigram index**"""
+"""#**generating suggested posting list from the trigram index**"""
 
 def generateSuggestedList(word,Nindex,n):
     size=len(word)
